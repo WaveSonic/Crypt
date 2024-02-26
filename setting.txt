@@ -1,0 +1,5 @@
+min_sell:1.3,1.3
+max_buy:0.8,0.8
+coin:AEVO,W
+test:1
+coor:1420,490
